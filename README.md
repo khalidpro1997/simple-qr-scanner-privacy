@@ -1,8 +1,8 @@
 # Privacy Policy for Simple QR Scanner
 
-**Effective date:** _[fill in the date you publish, e.g. 14 May 2026]_
-**Developer:** _[Your full name or registered business name]_
-**Contact:** _[your-email@example.com]_
+**Effective date:** 14 May 2026]
+**Developer:** Danish khalid
+**Contact:** Danishkhalid1997@gmail.com
 
 Simple QR Scanner ("the app", "we", "our") is an Android app that scans QR codes and barcodes. This policy explains what data the app processes, why, and what choices you have.
 
