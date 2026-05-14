@@ -62,4 +62,4 @@ We may update this policy from time to time. The "Effective date" at the top wil
 
 ## Contact
 
-If you have questions about this policy, write to **_[your-email@example.com]_**.
+If you have questions about this policy, write to **_[danishkhalid1997@gmail.com]_**.
